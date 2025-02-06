@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimmyYao
-- 👀 I’m interested in CS and run
-- 🌱 I’m currently learning embedded code
+- 👀 I’m interested in CS and sports
+- 🌱 I’m currently studying embedded development
 - 💞️ I’m looking to collaborate on embedded softerware
 - 📫 How to reach me yaojiayu7@foxmail.com
 - 😄 Pronouns: Work hard Play hard!
